@@ -1,1 +1,1 @@
-# metodologia
+# metodologia programowania obiektowego
